@@ -48,7 +48,7 @@
   - 設定記述言語
     - Toml, Yaml, JSON, XML
   
-### 利用する言語候補
+### 利用する言語の候補
 
 - [Rust](https://www.rust-lang.org/ja)
   - https://rust-cli.github.io/book/index.html
